@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nhu Thang (NhuThang24)</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://badges.pufler.dev/repos/TienNHM" alt="NhuThang" /> </p>
 
 - ✍ I'm currently working as a Java developer.
 
