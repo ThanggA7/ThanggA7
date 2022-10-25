@@ -1,54 +1,46 @@
-<a href="https://github.com/ThanggA7/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ThanggA7&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+<h1 align="center">Hi 👋, I'm Nhu Thang (NhuThang24)</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h3 align="center">A passionate developer from Vietnam </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
----
+- ✍ I'm currently working as a Java developer.
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ThanggA7&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanggA7&layout=compact" />
-</div>
 
-<!--
+## 📫 How to reach me:
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/tolathangne" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/ThanggA7" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+</p>
 
-<details>
-<summary><b>more detail</b></summary>
-  
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+</p>
 
-<h1>Presentation</h1>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h2>【Unite 2017 Tokyo】バグを殲滅！Unityにおける実践テスト手法</h2>
-<a href="https://www.slideshare.net/UnityTechnologiesJapan/unite-2017-tokyounity">
-  <img width="450" src="https://user-images.githubusercontent.com/6661165/88907506-ac3e2200-d293-11ea-92f5-31cf2647fbb1.png">
-</a>
-
-<h2>FIWARE Global Summit - Integrating Function as a Service (FaaS) Capabilities in FIWARE</h2>
-<a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-integrating-function-as-a-service-faas-capabilities-in-fiware">
-  <img width="450" src="https://user-images.githubusercontent.com/6661165/88908054-5fa71680-d294-11ea-9e50-0dd57019a7a6.png">
-</a>
-
-<h1>Patent</h1>
-
-## 発行国/特許番号  jp/特許第6533963
-* ユーザ端末、認証端末、認証方法及び決済プログラム  
-(User terminals, authentication terminals, authentication methods and payment programs)
-
-## 発行国/特許番号  jp/特許第6447949  
-* 決済システム、決済サーバ、決済方法及び決済プログラム  
-(Payment systems, payment servers, payment methods and payment programs)
-
-<h1>Books</h1>
-
-* [Ansible徹底活用ガイド ThinkIT 2016_10/6 (The Complete Guide to Ansible ThinkIT)](https://www.amazon.co.jp/Ansible-%E5%BE%B9%E5%BA%95%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-Think-Books-%E5%B9%B3/dp/4844381660/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-
-<h1>Popular Repository</h1>
-                 
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=covid19-japan-web-api&theme=monokai)](https://github.com/ryo-ma/covid19-japan-web-api)
-
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=lazyhub&theme=monokai)](https://github.com/ryo-ma/lazyhub)
-
-[![deno-websocket](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=deno-websocket&theme=monokai)](https://github.com/ryo-ma/deno-websokcet)
-
-</details>
-
--->
