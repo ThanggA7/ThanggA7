@@ -25,6 +25,12 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 </p>
 
+## Discord
+<a href="(https://discord.com/users/695525666669723648"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/695525666669723648">
+  </a> 
+
+  
 <table style="width:100%;">
   <tr>
     <td>
