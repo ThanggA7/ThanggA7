@@ -26,9 +26,7 @@
 </p>
 
 ## Discord
-<a href="(https://discord.com/users/695525666669723648"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/695525666669723648">
-  </a> 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707934327467671643?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/707934327467671643)
 
   
 <table style="width:100%;">
