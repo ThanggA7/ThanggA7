@@ -1,45 +1,75 @@
-<h1 align="center">Hi 👋, I'm Nhu Thang (Noa)</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+# Hi, I'm NhuThang! 👋
+[![wakatime](https://wakatime.com/badge/user/f351a39f-05c3-4440-84c7-6444ba23d95e.svg)](https://wakatime.com/@noazuynh)
+## 🚀 About Me
+Nickname: Noazuynh.
+Sex: Male.
 
-- ✍ I'm currently working as a Java developer.
+### Spotify Playing 🎧
+[![spotify-github-profile](https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png)](https://open.spotify.com/user/31ibuganx6kumqvpjh3siqrgz34e)
+
+## 🔗 Links
+[![portfolio][portfolio-badge]][website-link][![twitter][twitter-badge]][twitter-link][![discord][discord-badge]][discord-link]
+
+## 🛠 Skills
+<!---### Frontend--->
+
+### Backend
+[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+### Database
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()[![](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=RedislogoColor=white)]()
+<!---### Tools--->
+
+<!---### Framework--->
 
 
-## 📫 How to reach me:
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/tolathangne" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/ThanggA7" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-</p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C858%20hrs%2017%20mins-blue)
 
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-</p>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-## Discord
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707934327467671643?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/707934327467671643)
+**🐱 My GitHub Data** 
 
-  
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+> 🏆 865 Contributions in the Year 2022
+ > 
+> 📦 25.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 13 Private Repositories  
+ > 
 
+
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   42.86% 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/alikuxac/alikuxac/master/charts/bar_graph.png) 
+
+
+ Last Updated on 09/11/2022 12:41:40 UTC
+<!--END_SECTION:waka-->
+
+<!--- Link definition --->
+[website-link]: https://saptetroi.tk/
+[twitter-link]: https://twitter.com/
+[Facebook]: https://www.facebook.com/nhuthanggg
+
+[Instagram]: https://www.instagram.com/nhuthangl24/
+
+<!--- Badgee Imag --->
+[portfolio-badge]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
+[twitter-badge]: https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[discord-badge]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
