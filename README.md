@@ -5,7 +5,7 @@ Nickname: Noazuynh.
 Sex: Male.
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png)](https://open.spotify.com/user/31ibuganx6kumqvpjh3siqrgz34e)
+[![spotify-github-profile](https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png )](https://open.spotify.com/user/31ibuganx6kumqvpjh3siqrgz34e)
 
 ## 🔗 Links
 [![portfolio][portfolio-badge]][website-link][![twitter][twitter-badge]][twitter-link][![discord][discord-badge]][discord-link]
@@ -27,36 +27,8 @@ Sex: Male.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 865 Contributions in the Year 2022
- > 
-> 📦 25.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 13 Private Repositories  
- > 
 
 
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   42.86% 
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/alikuxac/alikuxac/master/charts/bar_graph.png) 
 
 
  Last Updated on 09/11/2022 12:41:40 UTC
